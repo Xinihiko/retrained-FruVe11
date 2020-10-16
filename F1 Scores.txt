@@ -1,0 +1,151 @@
+CNN 2
+              precision    recall  f1-score   support
+
+       apple       0.83      0.56      0.67         9
+     avocado       1.00      0.62      0.77         8
+      banana       0.50      0.75      0.60         8
+      carrot       1.00      0.88      0.93         8
+      garlic       1.00      1.00      1.00         8
+       grape       0.70      0.88      0.78         8
+        kiwi       0.78      0.88      0.82         8
+       mango       0.29      0.25      0.27         8
+      orange       1.00      0.56      0.71         9
+   pineapple       1.00      1.00      1.00         9
+      tomato       0.62      1.00      0.76         8
+
+    accuracy                           0.76        91
+   macro avg       0.79      0.76      0.76        91
+weighted avg       0.80      0.76      0.76        91
+
+CNN 3
+              precision    recall  f1-score   support
+
+       apple       0.86      0.67      0.75         9
+     avocado       1.00      0.50      0.67         8
+      banana       0.75      0.75      0.75         8
+      carrot       0.89      1.00      0.94         8
+      garlic       0.89      1.00      0.94         8
+       grape       0.54      0.88      0.67         8
+        kiwi       0.86      0.75      0.80         8
+       mango       0.88      0.88      0.88         8
+      orange       0.88      0.78      0.82         9
+   pineapple       0.89      0.89      0.89         9
+      tomato       0.78      0.88      0.82         8
+
+    accuracy                           0.81        91
+   macro avg       0.84      0.81      0.81        91
+weighted avg       0.84      0.81      0.81        91
+
+CNN 5
+              precision    recall  f1-score   support
+
+       apple       0.70      0.78      0.74         9
+     avocado       0.78      0.88      0.82         8
+      banana       0.64      0.88      0.74         8
+      carrot       0.80      1.00      0.89         8
+      garlic       1.00      1.00      1.00         8
+       grape       0.88      0.88      0.88         8
+        kiwi       0.78      0.88      0.82         8
+       mango       0.80      0.50      0.62         8
+      orange       1.00      0.89      0.94         9
+   pineapple       1.00      0.89      0.94         9
+      tomato       1.00      0.62      0.77         8
+
+    accuracy                           0.84        91
+   macro avg       0.85      0.83      0.83        91
+weighted avg       0.85      0.84      0.83        91
+
+CNN 11
+              precision    recall  f1-score   support
+
+       apple       1.00      0.78      0.88         9
+     avocado       0.58      0.88      0.70         8
+      banana       1.00      0.88      0.93         8
+      carrot       0.89      1.00      0.94         8
+      garlic       1.00      1.00      1.00         8
+       grape       1.00      0.88      0.93         8
+        kiwi       0.71      0.62      0.67         8
+       mango       0.67      0.50      0.57         8
+      orange       0.78      0.78      0.78         9
+   pineapple       1.00      1.00      1.00         9
+      tomato       0.80      1.00      0.89         8
+
+    accuracy                           0.85        91
+   macro avg       0.86      0.85      0.84        91
+weighted avg       0.86      0.85      0.85        91
+
+CNN 14
+              precision    recall  f1-score   support
+
+       apple       0.67      0.89      0.76         9
+     avocado       0.70      0.88      0.78         8
+      banana       0.73      1.00      0.84         8
+      carrot       0.80      1.00      0.89         8
+      garlic       1.00      1.00      1.00         8
+       grape       1.00      0.88      0.93         8
+        kiwi       0.78      0.88      0.82         8
+       mango       1.00      0.12      0.22         8
+      orange       0.70      0.78      0.74         9
+   pineapple       0.89      0.89      0.89         9
+      tomato       1.00      0.50      0.67         8
+
+    accuracy                           0.80        91
+   macro avg       0.84      0.80      0.78        91
+weighted avg       0.84      0.80      0.78        91
+
+CNN 29
+              precision    recall  f1-score   support
+
+       apple       0.78      0.78      0.78         9
+     avocado       1.00      0.75      0.86         8
+      banana       1.00      0.88      0.93         8
+      carrot       1.00      1.00      1.00         8
+      garlic       0.89      1.00      0.94         8
+       grape       0.88      0.88      0.88         8
+        kiwi       1.00      1.00      1.00         8
+       mango       0.60      0.75      0.67         8
+      orange       1.00      0.89      0.94         9
+   pineapple       1.00      0.89      0.94         9
+      tomato       0.80      1.00      0.89         8
+
+    accuracy                           0.89        91
+   macro avg       0.90      0.89      0.89        91
+weighted avg       0.90      0.89      0.89        91
+
+CNN 30
+              precision    recall  f1-score   support
+
+       apple       1.00      0.78      0.88         9
+     avocado       1.00      0.62      0.77         8
+      banana       0.88      0.88      0.88         8
+      carrot       1.00      1.00      1.00         8
+      garlic       1.00      1.00      1.00         8
+       grape       0.88      0.88      0.88         8
+        kiwi       0.80      1.00      0.89         8
+       mango       0.60      0.75      0.67         8
+      orange       0.80      0.89      0.84         9
+   pineapple       1.00      0.78      0.88         9
+      tomato       0.80      1.00      0.89         8
+
+    accuracy                           0.87        91
+   macro avg       0.89      0.87      0.87        91
+weighted avg       0.89      0.87      0.87        91
+
+CNN_Extra
+              precision    recall  f1-score   support
+
+       apple       1.00      0.78      0.88         9
+     avocado       0.88      0.88      0.88         8
+      banana       1.00      0.75      0.86         8
+      carrot       1.00      0.88      0.93         8
+      garlic       1.00      1.00      1.00         8
+       grape       0.86      0.75      0.80         8
+        kiwi       0.75      0.75      0.75         8
+       mango       0.75      0.75      0.75         8
+      orange       0.78      0.78      0.78         9
+   pineapple       0.75      1.00      0.86         9
+      tomato       0.73      1.00      0.84         8
+
+    accuracy                           0.85        91
+   macro avg       0.86      0.85      0.85        91
+weighted avg       0.86      0.85      0.85        91
