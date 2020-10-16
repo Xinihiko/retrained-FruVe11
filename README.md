@@ -1,6 +1,9 @@
 # Vegetables and Fruit Classification using DCNN (Re-trained)
-This repository is to explain the code and Convolutional Neural Network that I use for my bachelor thesis project.
+This repository is to explain the code and Convolutional Neural Network that I use for my [bachelor thesis](https://github.com/Xinihiko/retrained-FruVe11/blob/master/others/Thesis.pdf) project.<br>
 Note that all of the model in here is retrained and there are some changes made to the model, which will be explained later on.
+Please also understand that I uploaded the unsigned and removing the parts with the signs from my respondent is also removed.
+The explanation in here is taken from the file, summarized to be more understandable as the thesis are made to fill all the requirement from the university.
+This thesis is already submitted and I have been graduated since May 2020.
 
 ## Introduction
 As far as we know, Convolutional Neural Network (CNN) are already do a good job with classification problem.
